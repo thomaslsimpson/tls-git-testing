@@ -4,6 +4,11 @@
 
 ## Recipes
 
+### Push local to remote branch
+
+git push -u origin localname:remotename
+
+
 
 ## Notes
 
