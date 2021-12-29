@@ -14,4 +14,6 @@ git push -u origin localname:remotename
 
 I added the notes section in a branch called tls-branch-1.
 
+This time I'm checking what happens when I change thee name of a remote branch when I push it
+from local.
 
