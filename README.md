@@ -8,6 +8,18 @@
 
 git push -u origin localname:remotename
 
+### List branches
+
+Remote: git branch -r
+Local : git branch
+
+
+### RN
+
+git push origin local:remote
+Then, get on github and set up the PR to develop.
+
+
 
 
 ## Notes
