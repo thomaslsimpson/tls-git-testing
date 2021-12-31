@@ -1,0 +1,5 @@
+This file is being added while another change was made to a file on 
+a different branch. So, whern I check it in, this file should be added and
+committed but not the other file. showing this file in the main branch 
+after a merge but not the change I already had been working on to start.
+
